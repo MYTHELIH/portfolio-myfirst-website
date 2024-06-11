@@ -25,7 +25,7 @@ Welcome to my portfolio website! This project showcases my skills, projects, and
 
 ### How to View
 
-You can access my portfolio website by viewing [link]
+You can access my portfolio website by viewing https://mythelih.github.io/portfolio-myfirst-website/
 
 ### About Me:
 
